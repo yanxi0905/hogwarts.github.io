@@ -23,7 +23,7 @@ h1{
     top:0;
     line-height: 80px;
     color:#d5d8e2;
-    background-image: url(../resources/logo1.png);
+    background-image: url('../resources/logo1.png');
     background-repeat: no-repeat;
     background-size:contain;
     background-position: center;
